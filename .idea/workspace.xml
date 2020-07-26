@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73d8730b-203b-4ba3-9399-4725e9cb9452" name="Default Changelist" comment="mybatis02，首次上传代码">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fApCCsIZbS098k3KZU5P8GBS5S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProjects03\mybatis02\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d8730b-203b-4ba3-9399-4725e9cb9452" name="Default Changelist" comment="" />
+      <created>1595670622011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595670622011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mybatis02，首次上传代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis02，首次上传代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1595748200841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595748200841" />
+    <state width="1202" height="286" key="GridCell.Tab.0.bottom" timestamp="1595744475644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="286" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595744475644" />
+    <state width="1202" height="286" key="GridCell.Tab.0.center" timestamp="1595744475643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="286" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595744475643" />
+    <state width="1202" height="286" key="GridCell.Tab.0.left" timestamp="1595744475643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="286" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595744475643" />
+    <state width="1202" height="286" key="GridCell.Tab.0.right" timestamp="1595744475643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="286" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595744475643" />
+    <state x="189" y="0" key="SettingsEditor" timestamp="1595751845531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="189" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595751845531" />
+  </component>
+</project>
